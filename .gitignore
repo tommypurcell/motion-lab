@@ -3,5 +3,5 @@ build/
 DerivedData/
 *.xcodeproj/
 xcuserdata/
-koi
-koi.mp4
+SwiftUI/KoiDualMonitor/koi
+SwiftUI/KoiDualMonitor/koi.mp4
