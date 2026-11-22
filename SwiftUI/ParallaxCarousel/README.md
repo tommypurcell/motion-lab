@@ -2,9 +2,9 @@
 
 The photo slides slower than the card; one visualEffect does it.
 
-![preview](preview.jpg)
+![preview](preview.gif)
 
-- Video: [preview.mp4](preview.mp4)
+- Full video: [preview.mp4](preview.mp4)
 - Original post: https://x.com/purcelldev/status/2122811366650364387
 
 ## Run

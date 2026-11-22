@@ -2,9 +2,9 @@
 
 Each bone follows the one in front; the legs use 2-bone IK and step when they fall behind.
 
-![preview](preview.jpg)
+![preview](preview.gif)
 
-- Video: [preview.mp4](preview.mp4)
+- Full video: [preview.mp4](preview.mp4)
 - Original post: https://x.com/purcelldev/status/2122786869515849993
 
 ## Run

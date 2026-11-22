@@ -2,9 +2,9 @@
 
 Morphing plus, popover fan, stacked cards, gooey Liquid Glass and a command palette.
 
-![preview](preview.jpg)
+![preview](preview.gif)
 
-- Video: [preview.mp4](preview.mp4)
+- Full video: [preview.mp4](preview.mp4)
 - Original post: https://x.com/purcelldev/status/2123043454720868562
 
 ## Run

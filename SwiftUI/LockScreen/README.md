@@ -2,9 +2,9 @@
 
 The clock hides behind the mountain and notifications stack in.
 
-![preview](preview.jpg)
+![preview](preview.gif)
 
-- Video: [preview.mp4](preview.mp4)
+- Full video: [preview.mp4](preview.mp4)
 - Original post: https://x.com/purcelldev/status/2123148270239416564
 
 ## Run

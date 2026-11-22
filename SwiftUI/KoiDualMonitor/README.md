@@ -2,9 +2,9 @@
 
 The koi swims behind the bezels from one monitor to the other. Renders the video offline (macOS script).
 
-![preview](preview.jpg)
+![preview](preview.gif)
 
-- Video: [preview.mp4](preview.mp4)
+- Full video: [preview.mp4](preview.mp4)
 - Original post: https://x.com/purcelldev/status/2124586271444283703
 
 ## Run

@@ -2,9 +2,9 @@
 
 .padding() then .background() vs the other way round.
 
-![preview](preview.jpg)
+![preview](preview.gif)
 
-- Video: [preview.mp4](preview.mp4)
+- Full video: [preview.mp4](preview.mp4)
 - Original post: https://x.com/purcelldev/status/2121609229303955912
 
 ## Run

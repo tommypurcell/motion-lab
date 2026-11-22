@@ -2,9 +2,9 @@
 
 .bounce, .pulse, .variableColor, .scale, .wiggle, .rotate, .breathe and .replace.
 
-![preview](preview.jpg)
+![preview](preview.gif)
 
-- Video: [preview.mp4](preview.mp4)
+- Full video: [preview.mp4](preview.mp4)
 - Original post: https://x.com/purcelldev/status/2122561573042688118
 
 ## Run
