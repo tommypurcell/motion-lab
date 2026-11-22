@@ -1,0 +1,9 @@
+name: ParallaxCarousel
+options: {bundleIdPrefix: com.tommy}
+targets:
+  ParallaxCarousel:
+    type: application
+    platform: iOS
+    deploymentTarget: "26.0"
+    sources: [ParallaxCarousel]
+    settings: {GENERATE_INFOPLIST_FILE: YES, INFOPLIST_KEY_UILaunchScreen_Generation: YES, CODE_SIGNING_ALLOWED: NO, ASSETCATALOG_COMPILER_APPICON_NAME: ""}
