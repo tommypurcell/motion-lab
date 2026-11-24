@@ -3,12 +3,12 @@
 Animations I build and post on X ([@purcelldev](https://x.com/purcelldev)), with the full source for each.
 
 ```
-SwiftUI/<Name>/
+SwiftUI/<Name>/   or   Blender/<Name>/
   README.md     what it is + how to run
   preview.gif   plays right on GitHub
   preview.mp4   the full video from the post
-  project.yml   XcodeGen project
-  <Name>/       the Swift source
+  project.yml   XcodeGen project (SwiftUI)
+  <Name>/       the Swift source, or the Blender Python script
 ```
 
 ## SwiftUI
@@ -53,6 +53,14 @@ Many apps auto-play a scripted demo (a fake finger dot) for recording. Look for 
 | [![Koi that follows your finger](SwiftUI/Koi/preview.gif)](SwiftUI/Koi) | **[Koi that follows your finger](SwiftUI/Koi)**<br>14 spine points, each joint bends at most ~20 degrees, so the body stays one smooth curve.<br>[post](https://x.com/purcelldev/status/2121492929021915248) · [full video](SwiftUI/Koi/preview.mp4) |
 | [![Animated text, 6 ways](SwiftUI/AnimatedText/preview.gif)](SwiftUI/AnimatedText) | **[Animated text, 6 ways](SwiftUI/AnimatedText)**<br>Six text animation styles.<br>[post](https://x.com/purcelldev/status/2121248596200996962) · [full video](SwiftUI/AnimatedText/preview.mp4) |
 
+## Blender
+
+3D animations built entirely from Python scripts run headless in Blender, with no .blend files. Each folder's README says how to render it.
+
+| Preview | Animation |
+|---|---|
+| [![Docker logo morph](Blender/DockerLogoMorph/preview.gif)](Blender/DockerLogoMorph) | **[Docker logo morph](Blender/DockerLogoMorph)**<br>The old whale goes 3D and spins into the new Moby, starting and ending flat on the real logos.<br>[full video](Blender/DockerLogoMorph/preview.mp4) |
+
 ## License
 
-MIT. Use them in your apps. A link back is appreciated, not required.
+MIT (code only; third-party logos in the Blender folder belong to their owners). Use them in your apps. A link back is appreciated, not required.
